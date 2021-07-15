@@ -31,7 +31,7 @@ pyvo==1.1
 ratelimit==2.2.1
 requests==2.26.0
 scipy==1.7.0
-setuptools==57.1.0
+setuptools==57.2.0
 shapely==1.7.1
 sklearn==0.0
 slackclient==2.9.3
