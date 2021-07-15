@@ -61,7 +61,7 @@ setuptools.setup(
         "shapely == 1.7.1",
         "sklearn == 0.0",
         "slackclient == 2.9.3",
-        "sqlalchemy == 1.4.20",
+        "sqlalchemy == 1.4.21",
         "tqdm == 4.61.2",
         "wget == 3.2",
         "zerorpc == 0.6.3",
